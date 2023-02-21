@@ -63,7 +63,7 @@
         
             <div class="w3-white w3-text-black w3-card-4">
               <div class="w3-display-container">
-                <img src="assests/images/satish.jpg" class="w3-square" style="width:100%" alt="Avatar">
+                <img src="assests/image/satish.jpg" class="w3-square" style="width:100%" alt="Avatar">
                 <div class="w3-display-center w3-container w3-text-black">
     
                 </div>
